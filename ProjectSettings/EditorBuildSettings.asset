@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/VR Basics.unity
+    guid: 9fc9e1e1995ee4a06933e416e82a02f8
+  - enabled: 1
+    path: Assets/Samples/XR Interaction Toolkit/2.6.4/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 0
+    path: Assets/Scenes/EyeTracking.unity
+    guid: 750726e6204154b8992375f9f4f71eb8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d17eddab3a43f4b95a4547ccc775675a,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3ef87ead882dd4609897689a7a2c26e3,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: fd0c6fd4c355848d0813e56b94ae4ee6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3a873e470b98947b7a9278e16d7fc04d,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d94c12652cc8544a2b7eae60d00f1c82,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 5d6bb17940c1a4738adbfc97ef42409b,
+      type: 2}
