@@ -6,7 +6,7 @@ Our project aims to educate users about how their physical data is collected, us
 * Hand-Tracking Implementation (https://github.com/carissabb/Immersive-VR-Privacy-Security/tree/feature/hand-tracking):
 <img width="1139" alt="image" src="https://github.com/user-attachments/assets/39104884-ba44-4c40-8413-3b9c33178047" />
 
-* Facial Expression Implementation ():
+* Facial Expression Implementation (https://github.com/carissabb/Immersive-VR-Privacy-Security/tree/facial-expr):
 ![image](https://github.com/user-attachments/assets/b5306d40-d6d8-4522-86b3-ca719c7ba4bc)
 
 * Eye Traking Implementation (https://github.com/carissabb/Immersive-VR-Privacy-Security/tree/EyeTracking)
