@@ -10,3 +10,8 @@ Our project aims to educate users about how their physical data is collected, us
 ![image](https://github.com/user-attachments/assets/b5306d40-d6d8-4522-86b3-ca719c7ba4bc)
 
 * Eye Traking Implementation (https://github.com/carissabb/Immersive-VR-Privacy-Security/tree/EyeTracking)
+
+  * **Gaze On Object**  
+    ![Eye Gaze On Object](EyeGaze(onObject).png)
+  * **Gaze Off Object**  
+    ![Eye Gaze Off Object](EyeGaze(offObject).png)
